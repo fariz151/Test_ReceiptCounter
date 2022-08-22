@@ -1,0 +1,10 @@
+c:\users\fariz_pc\documents\visual studio 2010\Projects\init_number\init_number\bin\Debug\init_number.exe.config
+c:\users\fariz_pc\documents\visual studio 2010\Projects\init_number\init_number\bin\Debug\init_number.exe
+c:\users\fariz_pc\documents\visual studio 2010\Projects\init_number\init_number\bin\Debug\init_number.pdb
+c:\users\fariz_pc\documents\visual studio 2010\Projects\init_number\init_number\bin\Debug\MySql.Data.dll
+c:\users\fariz_pc\documents\visual studio 2010\Projects\init_number\init_number\obj\x86\Debug\init_number.csprojResolveAssemblyReference.cache
+c:\users\fariz_pc\documents\visual studio 2010\Projects\init_number\init_number\obj\x86\Debug\init_number.Form1.resources
+c:\users\fariz_pc\documents\visual studio 2010\Projects\init_number\init_number\obj\x86\Debug\init_number.Properties.Resources.resources
+c:\users\fariz_pc\documents\visual studio 2010\Projects\init_number\init_number\obj\x86\Debug\init_number.csproj.GenerateResource.Cache
+c:\users\fariz_pc\documents\visual studio 2010\Projects\init_number\init_number\obj\x86\Debug\init_number.exe
+c:\users\fariz_pc\documents\visual studio 2010\Projects\init_number\init_number\obj\x86\Debug\init_number.pdb
